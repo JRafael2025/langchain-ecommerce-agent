@@ -1,4 +1,3 @@
-```markdown
 # LangChain E-commerce Agent
 
 ## Project Description
