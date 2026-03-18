@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Added by uploader - secret protection
+.env
+.env.local
+.env.*
+*_token.txt
+*_key.txt
+secrets.json
